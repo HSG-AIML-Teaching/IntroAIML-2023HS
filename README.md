@@ -16,6 +16,9 @@ This repository hosts Jupyter Notebooks relevant to our lectures and lab course.
 | 20 Nov 2023               | Lab course 2: Supervised Learning  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroAIML-2023HS/blob/main/lab_02/lab_02.ipynb) |
 | 20 Nov 2023               | Lab course 2b: Unsupervised Learning  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroAIML-2023HS/blob/main/lab_02b/lab_02b.ipynb) |
 | 20 Nov 2023               | Lecture 6: Unsupervised learning Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroAIML-2023HS/blob/main/lecture_06/06_unsupervisedlearning.ipynb) |
+| 4 Dec 2023               | Lab course 3: Neural Networks  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroAIML-2023HS/blob/main/lab_03/lab_03.ipynb) |
+
+
 <!--
 | 27 Nov 2023               | Lecture 7: Neural Networks Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroAIML-2023HS/blob/main/lecture_07/neuralnetworks.ipynb) |
 | 27 Nov 2023               | Lab course 3: Neural Networks  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroAIML-2023HS/blob/main/lab_03/lab_03.ipynb) |
